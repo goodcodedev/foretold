@@ -34,6 +34,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/preset-react": "7.0.0",
+    "@foretold/cdf": "^1.0.7",
     "@glennsl/bs-jest": "^0.4.7",
     "@glennsl/bs-json": "^3.0.0",
     "@ncthbrt/re-secure-random-string": "^2.0.0",
@@ -62,6 +63,7 @@
     "bs-reform": "^6.0.0-gadt.5",
     "bs-storybook": "^0.2.0",
     "bsb-js": "^1.1.7",
+    "cdf": "^0.4.0",
     "css-loader": "^2.1.1",
     "d3": "^5.9.2",
     "discrete-sampling": "^1.0.3",
@@ -90,7 +92,6 @@
     "static-server": "^2.2.1",
     "style-loader": "^0.23.0",
     "subscriptions-transport-ws": "^0.9.14",
-    "victory": "^32.2.2",
     "warning": "^4.0.3",
     "webpack": "^4.0.1",
     "webpack-cli": "^3.1.0",
